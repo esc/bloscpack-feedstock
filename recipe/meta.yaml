@@ -1,4 +1,4 @@
-{% set version = "0.11.0" %}
+{% set version = "0.13.0" %}
 
 package:
   name: bloscpack
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/b/bloscpack/bloscpack-{{ version }}.tar.gz
-  sha256: 8c735ca961ca01141f741a23320d2acb7c1191863b26505bc8fc8e53110ac33b
+  sha256: a31a24bb3ac60a0de5ba4fffb5aa232dbb3cd97b49dbeea1fcf69561a7ca2d31
 
 build:
   number: 0
