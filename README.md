@@ -14,14 +14,16 @@ Summary: Command line interface to and serialization format for Blosc
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/bloscpack-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/bloscpack-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/bloscpack-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/bloscpack-feedstock)
-Windows: ![](https://cdn.rawgit.com/conda-forge/conda-smithy/90845bba35bec53edac7a16638aa4d77217a3713/conda_smithy/static/disabled.svg)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/bloscpack-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/bloscpack-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/bloscpack-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/bloscpack-feedstock)
+![Windows disabled](https://img.shields.io/badge/Windows-disabled-lightgrey.svg)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/bloscpack/badges/version.svg)](https://anaconda.org/conda-forge/bloscpack)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/bloscpack/badges/downloads.svg)](https://anaconda.org/conda-forge/bloscpack)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-bloscpack-green.svg)](https://anaconda.org/conda-forge/bloscpack) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/bloscpack.svg)](https://anaconda.org/conda-forge/bloscpack) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/bloscpack.svg)](https://anaconda.org/conda-forge/bloscpack) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/bloscpack.svg)](https://anaconda.org/conda-forge/bloscpack) |
 
 Installing bloscpack
 ====================
