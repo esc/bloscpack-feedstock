@@ -3,7 +3,7 @@ About bloscpack
 
 Home: https://github.com/Blosc/bloscpack
 
-Package license: Apache 2.0
+Package license: MIT
 
 Feedstock license: BSD 3-Clause
 
@@ -16,7 +16,7 @@ Current build status
 
 [![Linux](https://img.shields.io/circleci/project/github/conda-forge/bloscpack-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/bloscpack-feedstock)
 [![OSX](https://img.shields.io/travis/conda-forge/bloscpack-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/bloscpack-feedstock)
-![Windows disabled](https://img.shields.io/badge/Windows-disabled-lightgrey.svg)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/bloscpack-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/bloscpack-feedstock/branch/master)
 
 Current release info
 ====================
