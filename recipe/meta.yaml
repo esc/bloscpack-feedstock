@@ -9,7 +9,8 @@ source:
   sha256: 1fd53e5bec6f6fb98051cd324c68e65028bdf5efabab5f4d09b769fd1d8103e1
 
 build:
-  number: 1001
+  number: 1002
+  noarch: python
   script: python -m pip install --no-deps --ignore-installed .
   entry_points:
     - blpk = bloscpack.cli:main

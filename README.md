@@ -14,9 +14,8 @@ Summary: Command line interface to and serialization format for Blosc
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/bloscpack-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/bloscpack-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/bloscpack-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/bloscpack-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/bloscpack-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/bloscpack-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/bloscpack-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/bloscpack-feedstock)
 
 Current release info
 ====================
