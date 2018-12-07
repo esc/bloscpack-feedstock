@@ -33,7 +33,7 @@ test:
 
 about:
   home: https://github.com/Blosc/bloscpack
-  license: Apache 2.0
+  license: MIT
   summary: 'Command line interface to and serialization format for Blosc'
 
 extra:
