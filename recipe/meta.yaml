@@ -13,7 +13,6 @@ build:
   script: python -m pip install --no-deps --ignore-installed .
   entry_points:
     - blpk=bloscpack.cli:main
-  skip: True  # [win]
 
 requirements:
   build:
