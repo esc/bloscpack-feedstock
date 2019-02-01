@@ -25,6 +25,7 @@ requirements:
     - blosc
     - python-blosc
     - numpy
+    - deprecated
 
 test:
   imports:
